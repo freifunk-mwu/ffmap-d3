@@ -15,6 +15,10 @@ header, footer {
   display: table-row;
 }
 
+form {
+  margin-right: 10px;
+}
+
 #content {
   display: table-row;
   width: 100%;
